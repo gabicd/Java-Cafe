@@ -134,6 +134,5 @@ Mas, na parte entre parênteses, troque pelo caminho até a lib do javafx da sua
 
 - De início, tivemos dificuldade na configuração do JavaFX para começar a construção do projeto.
 - Outra dificuldade, foi na organização dos updates do nosso código. Dividimos nossas partes e trabalhamos separadamente, cada um fazendo updates no git hub, mas em seu próprio código. Isso dificultou o andamento do projeto, pois no fim, tivemos retrabalho e precisamos juntar cada parte separadamente. 
-- Tivemos problemas com a edição da configuração de estoque, não conseguindo entregá-la.
 
 

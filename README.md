@@ -41,11 +41,13 @@ O sistema Java Café é um POS para um pequeno café. Ele permite que os usuári
 - **Dados:** Testar salvamento e recuperação de dados.
 
 ## Execução do Programa
-1. Baixar a biblioteca JavaFX.
-2. Configurar em Project Structure e Modules.
-3. Em Run > Edit Configurations, adicionar VM Options:
+1. Baixar as bibliotecas JavaFX e JFoenix.
+2. Adicionar as bibliotecas na IDE.
+3. Configurar em Project Structure e Modules.
+4. Em Run > Edit Configurations, adicionar VM Options:
 --module-path "C:\caminho\para\javafx-sdk-22.0.1\lib" --add-modules javafx.controls,javafx.fxml
-4. Configurar entrada principal como `javacafe.Main`.
+5. Configurar entrada principal como `javacafe.Main`.
+6. Baixar a fonte https://www.dafont.com/superstar-2.font para visualização do programa na fonte idealizada para interface
 
 ## Problemas durante o Projeto
 - Configuração inicial do JavaFX.

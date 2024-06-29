@@ -30,7 +30,7 @@ Um breve resumo de cada classe:
 
 - *LoginController:* Controla o processo de autenticação de usuários, incluindo verificação de credenciais e gerenciamento de sessões de login.
 
-- *InventoryController: *Administra o inventário do sistema, incluindo adição, remoção e atualização de itens no estoque.
+- *InventoryController:* Administra o inventário do sistema, incluindo adição, remoção e atualização de itens no estoque.
 
 - *InventoryPageController:* Gerencia a interface de usuário relacionada à página de inventário, facilitando a interação entre o usuário e os dados de inventário.
 
